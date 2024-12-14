@@ -1,0 +1,19 @@
+.layout {
+    // display: flex;
+    // flex-direction: column;
+  
+   
+    // background-size: cover;
+    // background-position: center;
+    // overflow: auto;
+    // background-repeat: repeat;
+    .main{
+      min-height: 100vh;
+      background-image: url('../../assets/img/bg8.jpg'); /* Adjust the path if necessary */
+      background-size: cover;
+      background-position: center;
+      overflow: auto;
+      background-repeat: repeat;
+    }
+  }
+  
